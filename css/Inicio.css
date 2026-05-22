@@ -73,8 +73,9 @@ header nav ul li img {
 
 main {
   background: black;
-  height: 110vh;
+  height: 110%;
   margin-top: 7vh;
+  width: 100%;
 }
 
 .menu {
