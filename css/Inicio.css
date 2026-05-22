@@ -414,7 +414,7 @@ form button{
 /* Mexe com o a barra inferior(footer) */
 
 footer {
-  background-color: pink;
+  background-color: black;
   display: flex;
   bottom: 0;
   width: 100vw;
@@ -429,7 +429,7 @@ footer {
 
 /*----------CSS PARA DESKTOP----------*/
 
-@media (min-width: 1081px) {
+@media (min-width: 768px) {
 
 body {
   margin: 0;
