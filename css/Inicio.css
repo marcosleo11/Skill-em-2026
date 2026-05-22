@@ -417,7 +417,7 @@ footer {
   background-color: black;
   display: flex;
   bottom: 0;
-  width: 100vw;
+  width: 150vw;
   height: 5vh;
   margin-top: -1vh;
   position: fixed;
